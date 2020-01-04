@@ -547,8 +547,8 @@
 }
 
 .rich-text-block {
-  width: 70%;
-  margin-top: 0px;
+  width: 50%;
+  margin-top: 20px;
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
